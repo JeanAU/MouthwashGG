@@ -1,13 +1,11 @@
-# ARCHIVED
-This is the last open-source version of the Mouthwash codebase. Mouthwash may again be made open-source in the future, but currently future builds and methods to access the game are available at the following repository:
-
-https://github.com/edqx/MouthwashPublic
-
 # Mouthwash.gg
 Mouthwash.gg is an _open source re-implementation_ of the Polus.gg backend, made with [Hindenburg](https://github.com/skeldjs/Hindenburg).
 
 ## Install
 Mouthwash.gg is still in development for the time being, check back later! (Or contribute!)
+
+## What is Polus.gg ?
+__**Polus.gg is an mod made for Among us wich change game cosmetics, roles, maps,...__**
 
 ## Information
 ### Why?
